@@ -1,1 +1,3 @@
 # JS-exercise
+
+Practicing Javascript!
